@@ -28,13 +28,16 @@ The workflow includes data preprocessing, training, evaluation, and visualizatio
 ## ⚙️ Requirements
 ```bash
 pip install pandas numpy scikit-learn matplotlib seaborn
+```
 
 
-📊 Example Output
-MAE: 2150.34
-MSE: 8564237.12
-R²: 0.86
+## 📊 Example Output
 
+**MAE:** 2150.34  
+**MSE:** 8564237.12  
+**R²:** 0.86
 
-👩‍💻 Author: Vaishnavi V
+---
+
+## 👩‍💻 Author: Vaishnavi V
 
